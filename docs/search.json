@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-04T10:20:44-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Demo Website",
+      "description": "Welcome to the website. Made with R and RMarkdown (using the `distill` package).\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-04T10:20:45-08:00"
+    }
+  ],
+  "collections": []
+}
